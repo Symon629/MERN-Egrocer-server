@@ -1,2 +1,4 @@
 # MERN-Egrocer-server
-Server for the my e-grocer project
+Server for the Cross Platform Grocery App.
+
+
